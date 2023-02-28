@@ -1,0 +1,3 @@
+[submodule "nhl-stats-app"]
+	path = nhl-stats-app
+	url = https://github.com/edouard20/nhl-stats-app
